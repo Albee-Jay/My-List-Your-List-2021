@@ -1,0 +1,12 @@
+body {
+  color: darkblue;
+  background-image: linear-gradient(lightblue, white, lightblue);
+  font-size: 1.25em;
+  padding: 10px 40px 0px 40px;
+}
+
+#changeList {
+  background-color: blue;
+  color: whitesmoke;
+  font-size: 1em;
+}
